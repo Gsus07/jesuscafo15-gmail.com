@@ -1,0 +1,176 @@
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\ProyectoGUI\bin\Debug\ProyectoGUI.exe.config
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\ProyectoGUI\bin\Debug\ProyectoGUI.exe
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\ProyectoGUI\bin\Debug\ProyectoGUI.pdb
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.csprojAssemblyReference.cache
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.InicioGUI.resources
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.Properties.Resources.resources
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.csproj.GenerateResource.cache
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.exe
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.pdb
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmLoginAdministrador.resources
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmLoginEmpleado.resources
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\ProyectoGUI\bin\Debug\BLL.dll
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\ProyectoGUI\bin\Debug\Entity.dll
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\ProyectoGUI\bin\Debug\BLL.pdb
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\ProyectoGUI\bin\Debug\Entity.pdb
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.csproj.CopyComplete
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmMenuEmpleado.resources
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmMenuAministrador.resources
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmClientes.resources
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmFacturas.resources
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmProductos.resources
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\ProyectoGUI\bin\Debug\ProyectoGUI.exe.config
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\ProyectoGUI\bin\Debug\ProyectoGUI.exe
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\ProyectoGUI\bin\Debug\ProyectoGUI.pdb
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\ProyectoGUI\bin\Debug\BLL.dll
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\ProyectoGUI\bin\Debug\Entity.dll
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\ProyectoGUI\bin\Debug\BLL.pdb
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\ProyectoGUI\bin\Debug\Entity.pdb
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.csprojAssemblyReference.cache
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmAdministrador.resources
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmAgregarAdministrador.resources
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmAgregarCliente.resources
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmAgregarEmpleado.resources
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmAgregarFactura.resources
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmAgregarProducto.resources
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmClientes.resources
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmEditarUsuario.resources
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmEmpleado.resources
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmFacturas.resources
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmLoginAdministrador.resources
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmLoginEmpleado.resources
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmMenuAministrador.resources
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmMenuEmpleado.resources
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmProductos.resources
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.InicioGUI.resources
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.Properties.Resources.resources
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.csproj.GenerateResource.cache
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.csproj.CopyComplete
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.exe
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.pdb
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.csprojAssemblyReference.cache
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmAdministrador.resources
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmAgregarAdministrador.resources
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmAgregarCliente.resources
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmAgregarEmpleado.resources
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmAgregarFactura.resources
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmAgregarProducto.resources
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmClientes.resources
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmEditarUsuario.resources
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmEmpleado.resources
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmFacturas.resources
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmLoginAdministrador.resources
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmLoginEmpleado.resources
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmMenuAministrador.resources
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmMenuEmpleado.resources
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmProductos.resources
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.InicioGUI.resources
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.Properties.Resources.resources
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.csproj.GenerateResource.cache
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.exe
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.pdb
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\ProyectoGUI\bin\Debug\ProyectoGUI.exe.config
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\ProyectoGUI\bin\Debug\ProyectoGUI.exe
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\ProyectoGUI\bin\Debug\ProyectoGUI.pdb
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\ProyectoGUI\bin\Debug\BLL.dll
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\ProyectoGUI\bin\Debug\Entity.dll
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\ProyectoGUI\bin\Debug\BLL.pdb
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\ProyectoGUI\bin\Debug\Entity.pdb
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.csproj.CopyComplete
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmUsuarios.resources
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\ProyectoGUI\bin\Debug\BLL.dll.config
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\ProyectoGUI\bin\Debug\DAL.dll
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\ProyectoGUI\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\ProyectoGUI\bin\Debug\DAL.pdb
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\ProyectoGUI\bin\Debug\DAL.dll.config
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\ProyectoGUI\bin\Debug\ProyectoGUI.exe.config
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\ProyectoGUI\bin\Debug\ProyectoGUI.exe
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\ProyectoGUI\bin\Debug\ProyectoGUI.pdb
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\ProyectoGUI\bin\Debug\BLL.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\ProyectoGUI\bin\Debug\Entity.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\ProyectoGUI\bin\Debug\DAL.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\ProyectoGUI\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\ProyectoGUI\bin\Debug\BLL.pdb
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\ProyectoGUI\bin\Debug\BLL.dll.config
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\ProyectoGUI\bin\Debug\Entity.pdb
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\ProyectoGUI\bin\Debug\DAL.pdb
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\ProyectoGUI\bin\Debug\DAL.dll.config
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.csprojAssemblyReference.cache
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmMenuEmpleado.resources
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmUsuarios.resources
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmClientes.resources
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmFacturas.resources
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmLoginAdministrador.resources
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmLoginEmpleado.resources
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmMenuAministrador.resources
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmProductos.resources
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.InicioGUI.resources
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.Properties.Resources.resources
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.csproj.GenerateResource.cache
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.csproj.CopyComplete
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.exe
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.pdb
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\ProyectoGUI\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\ProyectoGUI\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\ProyectoGUI\bin\Debug\ProyectoGUI.exe.config
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\ProyectoGUI\bin\Debug\ProyectoGUI.exe
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\ProyectoGUI\bin\Debug\ProyectoGUI.pdb
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\ProyectoGUI\bin\Debug\BLL.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\ProyectoGUI\bin\Debug\Entity.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\ProyectoGUI\bin\Debug\DAL.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\ProyectoGUI\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\ProyectoGUI\bin\Debug\BLL.pdb
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\ProyectoGUI\bin\Debug\BLL.dll.config
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\ProyectoGUI\bin\Debug\Entity.pdb
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\ProyectoGUI\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\ProyectoGUI\bin\Debug\DAL.pdb
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\ProyectoGUI\bin\Debug\DAL.dll.config
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.csprojAssemblyReference.cache
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmMenuEmpleado.resources
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmUsuarios.resources
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmClientes.resources
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmFacturas.resources
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmLoginAdministrador.resources
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmLoginEmpleado.resources
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmMenuAministrador.resources
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmProductos.resources
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.InicioGUI.resources
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.Properties.Resources.resources
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.csproj.GenerateResource.cache
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.csproj.CopyComplete
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.exe
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.pdb
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\ProyectoGUI\bin\Debug\InfraStructure.dll
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\ProyectoGUI\bin\Debug\InfraStructure.pdb
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\ProyectoGUI\bin\Debug\ProyectoGUI.exe.config
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\ProyectoGUI\bin\Debug\ProyectoGUI.exe
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\ProyectoGUI\bin\Debug\ProyectoGUI.pdb
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\ProyectoGUI\bin\Debug\BLL.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\ProyectoGUI\bin\Debug\Entity.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\ProyectoGUI\bin\Debug\DAL.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\ProyectoGUI\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\ProyectoGUI\bin\Debug\InfraStructure.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\ProyectoGUI\bin\Debug\itextsharp.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\ProyectoGUI\bin\Debug\BLL.pdb
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\ProyectoGUI\bin\Debug\BLL.dll.config
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\ProyectoGUI\bin\Debug\Entity.pdb
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\ProyectoGUI\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\ProyectoGUI\bin\Debug\DAL.pdb
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\ProyectoGUI\bin\Debug\DAL.dll.config
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\ProyectoGUI\bin\Debug\InfraStructure.pdb
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\ProyectoGUI\bin\Debug\itextsharp.xml
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.csprojAssemblyReference.cache
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmMenuEmpleado.resources
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmUsuarios.resources
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmClientes.resources
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmFacturas.resources
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmLoginAdministrador.resources
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmLoginEmpleado.resources
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmMenuAministrador.resources
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmProductos.resources
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.InicioGUI.resources
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.Properties.Resources.resources
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.csproj.GenerateResource.cache
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.csproj.CopyComplete
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.exe
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.pdb

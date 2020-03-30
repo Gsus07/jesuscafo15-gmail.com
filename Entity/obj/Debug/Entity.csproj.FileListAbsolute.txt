@@ -1,0 +1,25 @@
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\Entity\bin\Debug\Entity.dll
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\Entity\bin\Debug\Entity.pdb
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\Entity\obj\Debug\Entity.dll
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\Entity\obj\Debug\Entity.pdb
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\Entity\bin\Debug\Entity.dll
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\Entity\bin\Debug\Entity.pdb
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\Entity\obj\Debug\Entity.dll
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\Entity\obj\Debug\Entity.pdb
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\Entity\bin\Debug\Entity.dll
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\Entity\bin\Debug\Entity.pdb
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\Entity\obj\Debug\Entity.dll
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\Entity\obj\Debug\Entity.pdb
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\Entity\bin\Debug\Entity.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\Entity\bin\Debug\Entity.pdb
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\Entity\obj\Debug\Entity.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\Entity\obj\Debug\Entity.pdb
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\Entity\bin\Debug\Entity.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\Entity\bin\Debug\Entity.pdb
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\Entity\obj\Debug\Entity.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\Entity\obj\Debug\Entity.pdb

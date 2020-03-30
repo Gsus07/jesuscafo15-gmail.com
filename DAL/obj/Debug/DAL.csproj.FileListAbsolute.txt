@@ -1,0 +1,56 @@
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\DAL\bin\Debug\DAL.dll
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\DAL\bin\Debug\DAL.pdb
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\DAL\bin\Debug\Entity.dll
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\DAL\bin\Debug\Entity.pdb
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\DAL\obj\Debug\DAL.dll
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\DAL\obj\Debug\DAL.pdb
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\DAL\bin\Debug\DAL.dll
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\DAL\bin\Debug\DAL.pdb
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\DAL\bin\Debug\Entity.dll
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\DAL\bin\Debug\Entity.pdb
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\DAL\obj\Debug\DAL.dll
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\DAL\obj\Debug\DAL.pdb
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\DAL\bin\Debug\DAL.dll
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\DAL\bin\Debug\DAL.pdb
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\DAL\bin\Debug\Entity.dll
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\DAL\bin\Debug\Entity.pdb
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\DAL\obj\Debug\DAL.dll
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\DAL\obj\Debug\DAL.pdb
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\DAL\bin\Debug\DAL.dll.config
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\DAL\bin\Debug\DAL.dll.config
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\DAL\bin\Debug\DAL.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\DAL\bin\Debug\DAL.pdb
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\DAL\bin\Debug\Entity.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\DAL\bin\Debug\Entity.pdb
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\DAL\obj\Debug\DAL.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\DAL\obj\Debug\DAL.pdb
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\DAL\bin\Debug\DAL.dll.config
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\DAL\bin\Debug\DAL.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\DAL\bin\Debug\DAL.pdb
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\DAL\bin\Debug\Entity.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\DAL\bin\Debug\Entity.pdb
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\DAL\obj\Debug\DAL.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\DAL\obj\Debug\DAL.pdb
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\DAL\bin\Debug\DAL.dll.config
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\DAL\bin\Debug\DAL.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\DAL\bin\Debug\DAL.pdb
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\DAL\bin\Debug\Entity.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\DAL\bin\Debug\Entity.pdb
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\DAL\obj\Debug\DAL.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,18 @@
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\InfraStructure\bin\Debug\InfraStructure.dll
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\InfraStructure\bin\Debug\InfraStructure.pdb
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\InfraStructure\bin\Debug\Entity.dll
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\InfraStructure\bin\Debug\Entity.pdb
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\InfraStructure\obj\Debug\InfraStructure.csprojAssemblyReference.cache
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\InfraStructure\obj\Debug\InfraStructure.csproj.CopyComplete
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\InfraStructure\obj\Debug\InfraStructure.dll
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\InfraStructure\obj\Debug\InfraStructure.pdb
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\InfraStructure\bin\Debug\InfraStructure.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\InfraStructure\bin\Debug\InfraStructure.pdb
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\InfraStructure\bin\Debug\Entity.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\InfraStructure\bin\Debug\itextsharp.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\InfraStructure\bin\Debug\Entity.pdb
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\InfraStructure\bin\Debug\itextsharp.xml
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\InfraStructure\obj\Debug\InfraStructure.csprojAssemblyReference.cache
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\InfraStructure\obj\Debug\InfraStructure.csproj.CopyComplete
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\InfraStructure\obj\Debug\InfraStructure.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\InfraStructure\obj\Debug\InfraStructure.pdb

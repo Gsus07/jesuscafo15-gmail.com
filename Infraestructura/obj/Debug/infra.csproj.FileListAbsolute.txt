@@ -1,0 +1,29 @@
+C:\Users\UNICESAR-401\Pictures\PulsacionesGU-master\infra\bin\Debug\infra.dll
+C:\Users\UNICESAR-401\Pictures\PulsacionesGU-master\infra\bin\Debug\infra.pdb
+C:\Users\UNICESAR-401\Pictures\PulsacionesGU-master\infra\bin\Debug\Entity.dll
+C:\Users\UNICESAR-401\Pictures\PulsacionesGU-master\infra\bin\Debug\Entity.pdb
+C:\Users\UNICESAR-401\Pictures\PulsacionesGU-master\infra\obj\Debug\infra.csproj.CoreCompileInputs.cache
+C:\Users\UNICESAR-401\Pictures\PulsacionesGU-master\infra\obj\Debug\infra.csproj.CopyComplete
+C:\Users\UNICESAR-401\Pictures\PulsacionesGU-master\infra\obj\Debug\infra.dll
+C:\Users\UNICESAR-401\Pictures\PulsacionesGU-master\infra\obj\Debug\infra.pdb
+E:\Users\UNICESAR-401\Pictures\Pulsaciones 27-11-2019r\PulsacionesGU-master\infra\bin\Debug\infra.dll
+E:\Users\UNICESAR-401\Pictures\Pulsaciones 27-11-2019r\PulsacionesGU-master\infra\bin\Debug\infra.pdb
+E:\Users\UNICESAR-401\Pictures\Pulsaciones 27-11-2019r\PulsacionesGU-master\infra\bin\Debug\Entity.dll
+E:\Users\UNICESAR-401\Pictures\Pulsaciones 27-11-2019r\PulsacionesGU-master\infra\bin\Debug\itextsharp.dll
+E:\Users\UNICESAR-401\Pictures\Pulsaciones 27-11-2019r\PulsacionesGU-master\infra\bin\Debug\Entity.pdb
+E:\Users\UNICESAR-401\Pictures\Pulsaciones 27-11-2019r\PulsacionesGU-master\infra\bin\Debug\itextsharp.xml
+E:\Users\UNICESAR-401\Pictures\Pulsaciones 27-11-2019r\PulsacionesGU-master\infra\obj\Debug\infra.csprojAssemblyReference.cache
+E:\Users\UNICESAR-401\Pictures\Pulsaciones 27-11-2019r\PulsacionesGU-master\infra\obj\Debug\infra.csproj.CoreCompileInputs.cache
+E:\Users\UNICESAR-401\Pictures\Pulsaciones 27-11-2019r\PulsacionesGU-master\infra\obj\Debug\infra.csproj.CopyComplete
+E:\Users\UNICESAR-401\Pictures\Pulsaciones 27-11-2019r\PulsacionesGU-master\infra\obj\Debug\infra.dll
+E:\Users\UNICESAR-401\Pictures\Pulsaciones 27-11-2019r\PulsacionesGU-master\infra\obj\Debug\infra.pdb
+C:\Users\Sebastian\Pictures\PulsacionesGUI 29-11-2019\PulsacionesGU-master\infra\bin\Debug\infra.dll
+C:\Users\Sebastian\Pictures\PulsacionesGUI 29-11-2019\PulsacionesGU-master\infra\bin\Debug\infra.pdb
+C:\Users\Sebastian\Pictures\PulsacionesGUI 29-11-2019\PulsacionesGU-master\infra\bin\Debug\Entity.dll
+C:\Users\Sebastian\Pictures\PulsacionesGUI 29-11-2019\PulsacionesGU-master\infra\bin\Debug\itextsharp.dll
+C:\Users\Sebastian\Pictures\PulsacionesGUI 29-11-2019\PulsacionesGU-master\infra\bin\Debug\Entity.pdb
+C:\Users\Sebastian\Pictures\PulsacionesGUI 29-11-2019\PulsacionesGU-master\infra\bin\Debug\itextsharp.xml
+C:\Users\Sebastian\Pictures\PulsacionesGUI 29-11-2019\PulsacionesGU-master\infra\obj\Debug\infra.csprojAssemblyReference.cache
+C:\Users\Sebastian\Pictures\PulsacionesGUI 29-11-2019\PulsacionesGU-master\infra\obj\Debug\infra.csproj.CopyComplete
+C:\Users\Sebastian\Pictures\PulsacionesGUI 29-11-2019\PulsacionesGU-master\infra\obj\Debug\infra.dll
+C:\Users\Sebastian\Pictures\PulsacionesGUI 29-11-2019\PulsacionesGU-master\infra\obj\Debug\infra.pdb

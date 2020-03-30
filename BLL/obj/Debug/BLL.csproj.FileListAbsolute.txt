@@ -1,0 +1,78 @@
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\BLL\bin\Debug\BLL.dll
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\BLL\bin\Debug\BLL.pdb
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\BLL\bin\Debug\DAL.dll
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\BLL\bin\Debug\Entity.dll
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\BLL\bin\Debug\DAL.pdb
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\BLL\bin\Debug\Entity.pdb
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\BLL\obj\Debug\BLL.dll
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\BLL\obj\Debug\BLL.pdb
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\BLL\bin\Debug\BLL.dll
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\BLL\bin\Debug\BLL.pdb
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\BLL\bin\Debug\DAL.dll
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\BLL\bin\Debug\Entity.dll
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\BLL\bin\Debug\DAL.pdb
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\BLL\bin\Debug\Entity.pdb
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\BLL\obj\Debug\BLL.dll
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoGUI\BLL\obj\Debug\BLL.pdb
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\BLL\bin\Debug\BLL.dll
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\BLL\bin\Debug\BLL.pdb
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\BLL\bin\Debug\DAL.dll
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\BLL\bin\Debug\Entity.dll
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\BLL\bin\Debug\DAL.pdb
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\BLL\bin\Debug\Entity.pdb
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\BLL\obj\Debug\BLL.dll
+C:\Users\jesus\OneDrive\Escritorio\Nueva carpeta (4)\Nueva carpeta\ProyectoGUI\BLL\obj\Debug\BLL.pdb
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\BLL\bin\Debug\BLL.dll.config
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\BLL\bin\Debug\DAL.dll.config
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\BLL\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\BLL\bin\Debug\BLL.dll.config
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\BLL\bin\Debug\BLL.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\BLL\bin\Debug\BLL.pdb
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\BLL\bin\Debug\DAL.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\BLL\bin\Debug\Entity.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\BLL\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\BLL\bin\Debug\DAL.pdb
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\BLL\bin\Debug\DAL.dll.config
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\BLL\bin\Debug\Entity.pdb
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\BLL\obj\Debug\BLL.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 03-12-2019 1030AM\ProyectoGUI\BLL\obj\Debug\BLL.pdb
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\BLL\bin\Debug\BLL.dll.config
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\BLL\bin\Debug\BLL.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\BLL\bin\Debug\BLL.pdb
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\BLL\bin\Debug\DAL.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\BLL\bin\Debug\Entity.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\BLL\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\BLL\bin\Debug\DAL.pdb
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\BLL\bin\Debug\DAL.dll.config
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\BLL\bin\Debug\Entity.pdb
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\BLL\obj\Debug\BLL.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 04-12-2019\ProyectoGUI\BLL\obj\Debug\BLL.pdb
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\BLL\bin\Debug\InfraStructure.dll
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\BLL\bin\Debug\InfraStructure.pdb
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\BLL\bin\Debug\BLL.dll.config
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\BLL\bin\Debug\BLL.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\BLL\bin\Debug\BLL.pdb
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\BLL\bin\Debug\DAL.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\BLL\bin\Debug\Entity.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\BLL\bin\Debug\InfraStructure.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\BLL\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\BLL\bin\Debug\itextsharp.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\BLL\bin\Debug\DAL.pdb
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\BLL\bin\Debug\DAL.dll.config
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\BLL\bin\Debug\Entity.pdb
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\BLL\bin\Debug\InfraStructure.pdb
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\BLL\bin\Debug\itextsharp.xml
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\BLL\obj\Debug\BLL.dll
+C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\BLL\obj\Debug\BLL.pdb

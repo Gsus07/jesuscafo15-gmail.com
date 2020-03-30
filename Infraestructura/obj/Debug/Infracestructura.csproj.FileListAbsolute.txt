@@ -1,0 +1,3 @@
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\Infraestructura\obj\Debug\Infracestructura.csprojAssemblyReference.cache
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\Infraestructura\obj\Debug\infra.dll
+C:\Users\Sebastian\Documents\Proyecto\ProyectoGUI\Infraestructura\obj\Debug\infra.pdb
