@@ -88,6 +88,7 @@
             this.lblFecha.Size = new System.Drawing.Size(41, 13);
             this.lblFecha.TabIndex = 8;
             this.lblFecha.Text = "label2";
+            this.lblFecha.Click += new System.EventHandler(this.lblFecha_Click);
             // 
             // lblHora
             // 
@@ -100,6 +101,7 @@
             this.lblHora.Size = new System.Drawing.Size(57, 20);
             this.lblHora.TabIndex = 7;
             this.lblHora.Text = "label1";
+            this.lblHora.Click += new System.EventHandler(this.lblHora_Click);
             // 
             // BtnAdmin
             // 
@@ -168,7 +170,7 @@
             // 
             this.IconMaximizar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.IconMaximizar.Image = ((System.Drawing.Image)(resources.GetObject("IconMaximizar.Image")));
-            this.IconMaximizar.Location = new System.Drawing.Point(316, 3);
+            this.IconMaximizar.Location = new System.Drawing.Point(316, 27);
             this.IconMaximizar.Name = "IconMaximizar";
             this.IconMaximizar.Size = new System.Drawing.Size(26, 21);
             this.IconMaximizar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;

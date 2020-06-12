@@ -29,8 +29,8 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmProductos));
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
             this.PnlTitulo = new System.Windows.Forms.Panel();
             this.label3 = new System.Windows.Forms.Label();
             this.pictureBox4 = new System.Windows.Forms.PictureBox();
@@ -60,13 +60,13 @@
             this.txtCantidadBodega = new System.Windows.Forms.TextBox();
             this.txtDescripcion = new System.Windows.Forms.TextBox();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.pbConsultar = new System.Windows.Forms.PictureBox();
-            this.lineShape2 = new Microsoft.VisualBasic.PowerPacks.LineShape();
             this.shapeContainer1 = new Microsoft.VisualBasic.PowerPacks.ShapeContainer();
-            this.lineShape1 = new Microsoft.VisualBasic.PowerPacks.LineShape();
-            this.lineShape3 = new Microsoft.VisualBasic.PowerPacks.LineShape();
-            this.lineShape4 = new Microsoft.VisualBasic.PowerPacks.LineShape();
             this.lineShape5 = new Microsoft.VisualBasic.PowerPacks.LineShape();
+            this.lineShape4 = new Microsoft.VisualBasic.PowerPacks.LineShape();
+            this.lineShape3 = new Microsoft.VisualBasic.PowerPacks.LineShape();
+            this.lineShape1 = new Microsoft.VisualBasic.PowerPacks.LineShape();
+            this.lineShape2 = new Microsoft.VisualBasic.PowerPacks.LineShape();
+            this.pbConsultar = new System.Windows.Forms.PictureBox();
             this.PnlTitulo.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
@@ -203,22 +203,22 @@
             this.dataGridView1.BackgroundColor = System.Drawing.SystemColors.Control;
             this.dataGridView1.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.dataGridView1.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None;
-            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(143)))), ((int)(((byte)(245)))));
-            dataGridViewCellStyle1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dataGridView1.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
+            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(143)))), ((int)(((byte)(245)))));
+            dataGridViewCellStyle3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dataGridView1.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle3;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.EnableHeadersVisualStyles = false;
             this.dataGridView1.Location = new System.Drawing.Point(6, 276);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.ReadOnly = true;
-            dataGridViewCellStyle2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(137)))), ((int)(((byte)(183)))), ((int)(((byte)(224)))));
-            this.dataGridView1.RowsDefaultCellStyle = dataGridViewCellStyle2;
+            dataGridViewCellStyle4.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle4.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(137)))), ((int)(((byte)(183)))), ((int)(((byte)(224)))));
+            this.dataGridView1.RowsDefaultCellStyle = dataGridViewCellStyle4;
             this.dataGridView1.Size = new System.Drawing.Size(1055, 394);
             this.dataGridView1.TabIndex = 69;
             // 
@@ -271,6 +271,7 @@
             this.txtIDb.Name = "txtIDb";
             this.txtIDb.Size = new System.Drawing.Size(189, 13);
             this.txtIDb.TabIndex = 82;
+            this.txtIDb.TextChanged += new System.EventHandler(this.txtIDb_TextChanged);
             // 
             // btnBuscar
             // 
@@ -459,6 +460,7 @@
             this.txtDescripcion.Name = "txtDescripcion";
             this.txtDescripcion.Size = new System.Drawing.Size(189, 13);
             this.txtDescripcion.TabIndex = 59;
+            this.txtDescripcion.TextChanged += new System.EventHandler(this.txtDescripcion_TextChanged);
             // 
             // panel1
             // 
@@ -468,27 +470,6 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(1055, 25);
             this.panel1.TabIndex = 4;
-            // 
-            // pbConsultar
-            // 
-            this.pbConsultar.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pbConsultar.Image = ((System.Drawing.Image)(resources.GetObject("pbConsultar.Image")));
-            this.pbConsultar.Location = new System.Drawing.Point(6, 229);
-            this.pbConsultar.Name = "pbConsultar";
-            this.pbConsultar.Size = new System.Drawing.Size(133, 41);
-            this.pbConsultar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pbConsultar.TabIndex = 82;
-            this.pbConsultar.TabStop = false;
-            this.pbConsultar.Click += new System.EventHandler(this.pbConsultar_Click);
-            // 
-            // lineShape2
-            // 
-            this.lineShape2.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(143)))), ((int)(((byte)(245)))));
-            this.lineShape2.Name = "lineShape2";
-            this.lineShape2.X1 = 414;
-            this.lineShape2.X2 = 599;
-            this.lineShape2.Y1 = 110;
-            this.lineShape2.Y2 = 109;
             // 
             // shapeContainer1
             // 
@@ -505,23 +486,14 @@
             this.shapeContainer1.TabIndex = 84;
             this.shapeContainer1.TabStop = false;
             // 
-            // lineShape1
+            // lineShape5
             // 
-            this.lineShape1.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(143)))), ((int)(((byte)(245)))));
-            this.lineShape1.Name = "lineShape1";
-            this.lineShape1.X1 = 415;
-            this.lineShape1.X2 = 600;
-            this.lineShape1.Y1 = 189;
-            this.lineShape1.Y2 = 188;
-            // 
-            // lineShape3
-            // 
-            this.lineShape3.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(143)))), ((int)(((byte)(245)))));
-            this.lineShape3.Name = "lineShape3";
-            this.lineShape3.X1 = 413;
-            this.lineShape3.X2 = 598;
-            this.lineShape3.Y1 = 261;
-            this.lineShape3.Y2 = 260;
+            this.lineShape5.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(143)))), ((int)(((byte)(245)))));
+            this.lineShape5.Name = "lineShape5";
+            this.lineShape5.X1 = 800;
+            this.lineShape5.X2 = 985;
+            this.lineShape5.Y1 = 79;
+            this.lineShape5.Y2 = 78;
             // 
             // lineShape4
             // 
@@ -532,14 +504,44 @@
             this.lineShape4.Y1 = 334;
             this.lineShape4.Y2 = 333;
             // 
-            // lineShape5
+            // lineShape3
             // 
-            this.lineShape5.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(143)))), ((int)(((byte)(245)))));
-            this.lineShape5.Name = "lineShape5";
-            this.lineShape5.X1 = 800;
-            this.lineShape5.X2 = 985;
-            this.lineShape5.Y1 = 79;
-            this.lineShape5.Y2 = 78;
+            this.lineShape3.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(143)))), ((int)(((byte)(245)))));
+            this.lineShape3.Name = "lineShape3";
+            this.lineShape3.X1 = 413;
+            this.lineShape3.X2 = 598;
+            this.lineShape3.Y1 = 261;
+            this.lineShape3.Y2 = 260;
+            // 
+            // lineShape1
+            // 
+            this.lineShape1.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(143)))), ((int)(((byte)(245)))));
+            this.lineShape1.Name = "lineShape1";
+            this.lineShape1.X1 = 415;
+            this.lineShape1.X2 = 600;
+            this.lineShape1.Y1 = 189;
+            this.lineShape1.Y2 = 188;
+            // 
+            // lineShape2
+            // 
+            this.lineShape2.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(143)))), ((int)(((byte)(245)))));
+            this.lineShape2.Name = "lineShape2";
+            this.lineShape2.X1 = 414;
+            this.lineShape2.X2 = 599;
+            this.lineShape2.Y1 = 110;
+            this.lineShape2.Y2 = 109;
+            // 
+            // pbConsultar
+            // 
+            this.pbConsultar.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.pbConsultar.Image = ((System.Drawing.Image)(resources.GetObject("pbConsultar.Image")));
+            this.pbConsultar.Location = new System.Drawing.Point(6, 229);
+            this.pbConsultar.Name = "pbConsultar";
+            this.pbConsultar.Size = new System.Drawing.Size(133, 41);
+            this.pbConsultar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pbConsultar.TabIndex = 82;
+            this.pbConsultar.TabStop = false;
+            this.pbConsultar.Click += new System.EventHandler(this.pbConsultar_Click);
             // 
             // FrmProductos
             // 

@@ -130,5 +130,15 @@ namespace ProyectoGUI
                 Limpiar();
             }
         }
+
+        private void txtDescripcion_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtIDb_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

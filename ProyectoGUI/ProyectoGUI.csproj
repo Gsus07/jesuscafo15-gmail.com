@@ -50,12 +50,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FrmMenuEmpleado.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FrmMenuEmpleado.designer.cs">
-      <DependentUpon>FrmMenuEmpleado.cs</DependentUpon>
-    </Compile>
     <Compile Include="FrmUsuarios.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -106,9 +100,6 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="FrmMenuEmpleado.resx">
-      <DependentUpon>FrmMenuEmpleado.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="FrmUsuarios.resx">
       <DependentUpon>FrmUsuarios.cs</DependentUpon>
     </EmbeddedResource>

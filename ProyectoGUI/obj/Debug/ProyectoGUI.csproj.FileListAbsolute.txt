@@ -160,7 +160,6 @@ C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\P
 C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\ProyectoGUI\bin\Debug\InfraStructure.pdb
 C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\ProyectoGUI\bin\Debug\itextsharp.xml
 C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.csprojAssemblyReference.cache
-C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmMenuEmpleado.resources
 C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmUsuarios.resources
 C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmClientes.resources
 C:\Users\jesus\OneDrive\Documentos\Proyecto\ProyectoGUI 11-12-2019\ProyectoGUI\ProyectoGUI\obj\Debug\ProyectoGUI.FrmFacturas.resources

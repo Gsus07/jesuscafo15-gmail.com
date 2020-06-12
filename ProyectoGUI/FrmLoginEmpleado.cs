@@ -89,7 +89,7 @@ namespace ProyectoGUI
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Respuesta respuesta = new Respuesta();
+            /*Respuesta respuesta = new Respuesta();
             UsuarioService usuarioService = new UsuarioService();
             respuesta = usuarioService.BuscarTipo("Empleado");
             foreach (var item in respuesta.Usuarios)
@@ -97,14 +97,17 @@ namespace ProyectoGUI
                 if (item.User == txtUsuario.Text && item.Contraseña == txtContraseña.Text)
                 {
                     Visible = false;
-                    FrmMenuEmpleado frmMenuEmpleado = new FrmMenuEmpleado();
+                    FrmMenuAdministrardor frmMenuEmpleado = new FrmMenuAdministrador();
                     frmMenuEmpleado.Show();
                 }
                 else
                 {
                     MessageBox.Show("USUARIO / CONTRASEÑA INVALIDOS");
                 }
-            }
+            }*/
+            Visible = false;
+            FrmFacturas frmMenuEmpleado = new FrmFacturas();
+            frmMenuEmpleado.Show();
         }
 
         private void BtnVolver_Click(object sender, EventArgs e)

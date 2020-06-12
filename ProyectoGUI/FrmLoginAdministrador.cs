@@ -91,5 +91,10 @@ namespace ProyectoGUI
             InicioGUI inicio = new InicioGUI();
             inicio.Visible = true;
         }
+
+        private void txtUsuario_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
